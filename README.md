@@ -28,7 +28,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](--------------)
 
 <!-- GithubStats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanboeni&langs_count=4&theme=swift)
+<div align="left" style="display: flex; flex-direction: column; gap: 20px; border: 2px solid black; padding: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=renanboeni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false" height="145" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanboeni&langs_count=4&theme=swift" height="145" />
+</div>
+
 
 ## 🔋 Skills
 <!-- Skills: Programming Languages -->
